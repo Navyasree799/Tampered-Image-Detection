@@ -2,7 +2,7 @@
 
 # STEPS TO IMPLEMENT USING CMD/TERMINAL
 # STEP 1:
-git clone https://github.com/Navyasree799/Tampered-Image-Detection.git
+#git clone https://github.com/Navyasree799/Tampered-Image-Detection.git
 
 # STEP 2:
 cd Tampered-Image-Detection
