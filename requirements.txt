@@ -1,0 +1,9 @@
+opencv-python
+numpy
+uuid
+csv
+ThreadPoolExecutor
+PyQt5
+exiftool
+tensorflow
+tf-keras
